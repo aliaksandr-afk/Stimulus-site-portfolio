@@ -1,0 +1,67 @@
+@media screen and (min-width: 480px) and (max-width: 960px){
+.-ab-flex {
+    display: flex;
+}
+
+.-ab-w-25 {
+    width: 50%;
+}
+
+.-ab-w-50 {
+    width: 100%;
+}
+    
+.-ab-menu {
+    visibility: hidden;
+}
+
+.-ab-header__wrap {
+    height: 1480px;
+    display: flex;
+    flex-direction: column;
+}
+
+.-ab-skills__wrap {
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.-ab-adv__content {
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.-ab-form-items__wrap {
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.-ab-block-w100__title {
+    font-size: 30px;
+}
+
+.-ab-block-bg_2 {
+    background: url("../img/education-img.jpg") top center no-repeat;
+    background-size: 120%;
+    height: 380px;
+}
+
+.-ab-block__wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.-ab-block-article__contain {
+    height: 400px;
+}
+
+.-ab-btn-menu {
+    visibility: visible;
+}
+
+.-ab-button-wrap__button_white {
+    margin: 30px auto;
+    display: block;
+}
+
+}

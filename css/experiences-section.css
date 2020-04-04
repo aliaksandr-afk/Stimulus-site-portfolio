@@ -1,0 +1,52 @@
+.-ab-block-bg {
+    background: url("../img/experience-img.jpg") top center no-repeat;
+    background-size: 120%;
+    height: 360px;
+}
+
+.-ab-block-bg_2 {
+    background: url("../img/education-img.jpg") top center no-repeat;
+    background-size: 120%;
+    height: 400px;
+}
+
+.-ab-block-article__contain {
+    color: #fff;
+    padding: 40px 2% 0 7%;
+}
+
+.-ab-block-article__title {
+    padding-bottom: 10px;
+}
+
+.-ab-block-article-items__content {
+    margin-top: 42px;
+}
+
+.-ab-laptop-img {
+    font-size: 30px;
+    float: left;
+}
+
+.-ab-block-article__text-inner {
+    margin: 44px 0 0 50px;
+}
+
+.-ab-block-article__main-text {
+    font-size: 24px;
+    margin-left: 3%;
+}
+
+.-ab-block-article__main-text_inner {
+    font-size: 16px;
+    color: rgb(133, 48, 41);
+}
+
+.-ab-block-article__main-text_inner2 {
+    font-size: 16px;
+    color: rgb(134, 113, 32);
+}
+
+.-ab-block-article__text_last {
+    margin: 14px 0 0 20px;
+}

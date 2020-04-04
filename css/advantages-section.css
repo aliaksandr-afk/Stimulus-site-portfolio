@@ -1,0 +1,33 @@
+.-ab-flex {
+    display: flex;
+}
+
+.-ab-column-design__content {
+    background: rgb(228, 174, 88);
+}
+
+.-ab-column-item {
+    height: 300px;
+    text-align: center;
+    color: #fff;
+}
+
+.-ab-img-item {
+    font-size: 38px;
+    padding-top: 40px;
+}
+
+.-ab-column-title {
+    font-size: 22px;
+    margin: 36px 0 22px 0;
+}
+
+.-ab-column-text {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 28px;
+}
+
+.-ab-column-coding__content {
+    color: black;
+}

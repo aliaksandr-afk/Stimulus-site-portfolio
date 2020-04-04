@@ -1,0 +1,29 @@
+.-ab-footer__content {
+    height: 400px;
+    padding: 120px 0 0 40px;
+    text-align: center;
+    color: #747474;
+}
+
+.-ab-footer__text {
+    font-size: 16px;
+}
+
+.-ab-footer__social-links {
+    text-align: center;
+    margin: 60px;
+}
+
+.-ab-footer__wrap {
+    display: inline-block;
+    margin-right: 26px;
+}
+
+.-ab-footer__link {
+    color: #747474;
+}
+
+.-ab-footer__link:hover {
+    color: rgb(228, 174, 88);
+    transition: all 0.2s linear 0s;
+}

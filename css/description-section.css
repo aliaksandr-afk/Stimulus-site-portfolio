@@ -1,0 +1,21 @@
+.-ab-block-w100__bg-dark {
+    background: rgba(0, 0, 0, 0.719);
+    height: 440px;
+    padding-top: 120px;
+}
+
+.-ab-block-w100__title-img {
+    font-size: 34px;
+    margin-bottom: 20px;
+}
+
+.-ab-block-w100__title-img:hover {
+    color: rgb(252, 202, 122);
+    transition: all 0.2s linear 0s;
+}
+
+.-ab-block-w100__title {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
